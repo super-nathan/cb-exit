@@ -1,0 +1,10 @@
+Package: cb-exit
+Version: 0.0.1
+Architecture: all
+Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
+Installed-Size: 33
+Depends: python-notify, zenity, curl, wget
+Section: misc
+Priority: extra
+Homepage: http://pibang.org/
+Description: Simple program from logging out of Openbox

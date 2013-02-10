@@ -1,0 +1,14 @@
+Source: cb-exit
+Section: misc
+Priority: extra
+Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
+Build-Depends-Indep: debhelper (>= 5.0.0)
+Standards-Version: 3.9.0
+Homepage: http://pibang.org/
+
+Package: cb-exit
+Depends: python-notify, zenity, curl, wget
+Architecture: all
+Description: Simple program from logging out of Openbox
+
+
